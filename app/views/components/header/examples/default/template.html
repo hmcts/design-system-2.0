@@ -1,0 +1,21 @@
+{% from "hmcts-header/macro.njk" import hmctsHeader %}
+
+{{ hmctsHeader({
+
+  service: {
+    name: 'Service name',
+    url: '#'
+  },
+
+  navigation: {
+    label: 'Account navigation',
+    items: [{
+      text: 'Profile',
+      href: '#1'
+    }, {
+      text: 'Sign out',
+      href: '#1'
+    }]
+  }
+
+}) }}
