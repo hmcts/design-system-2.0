@@ -22,8 +22,10 @@ assignees: ''
 Is there enough research for us to continue using it? Make sure any sources are added to the Documentation section below.
 
 ### Has this been superseded by a more up to date GOV.UK Design System pattern or component?
-Don't forget to check the [GDS backlog](https://github.com/alphagov/govuk-design-system-backlog/issues) as well as the main [Design System](https://design-system.service.gov.uk/). We might be able to iterate our component or contribute to their discussions.
-
+- [] Checked [GOV.UK design system](https://design-system.service.gov.uk/)
+- [] Checked [GOV.UK backlog](https://github.com/alphagov/govuk-design-system-backlog/issues)
+- [] Checked Confluence
+- [] Included info already gathered from design system [Miro](https://miro.com/app/board/uXjVOS5QrxU=/?invite_link_id=3316733703)
 
 ### Status
 e.g. in HMCTS design system, in services but not in design system
