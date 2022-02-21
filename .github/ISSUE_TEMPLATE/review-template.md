@@ -21,14 +21,16 @@ assignees: ''
 Is there enough research for us to continue using it? Make sure any sources are added to the Documentation section below.
 
 ### Has this been superseded by a more up to date GOV.UK Design System pattern or component?
+Don't forget to check the [GDS backlog] (https://github.com/alphagov/govuk-design-system-backlog/issues) as well as the main [Design System] (https://design-system.service.gov.uk/). We might be able to iterate our component or contribute to their discussions.
+
 
 ### Status
 e.g. in HMCTS design system, in services but not in design system
 
 ### Documentation
 Example [link name](https://pages.github.com/)
-Example [link name](https://pages.github.com/)
-Example [link name](https://pages.github.com/)
+Example [link name](URL)
+Example [link name](URL)
 
 ## Summary
 ### Should this component or pattern remain in the HMCTS Design system?
