@@ -22,10 +22,6 @@ assignees: ''
 Is there enough research for us to continue using it? Make sure any sources are added to the Documentation section below.
 
 ### Has this been superseded by a more up to date GOV.UK Design System pattern or component?
-- [] Checked [GOV.UK design system](https://design-system.service.gov.uk/)
-- [] Checked [GOV.UK backlog](https://github.com/alphagov/govuk-design-system-backlog/issues)
-- [] Checked Confluence
-- [] Included info already gathered from design system [Miro](https://miro.com/app/board/uXjVOS5QrxU=/?invite_link_id=3316733703)
 
 ### Status
 e.g. in HMCTS design system, in services but not in design system
@@ -34,5 +30,12 @@ e.g. in HMCTS design system, in services but not in design system
 [link name](URL goes here)
 
 ## Summary
+### Checklist
+- [ ] Checked [GOV.UK design system](https://design-system.service.gov.uk/)
+- [ ] Checked [GOV.UK backlog](https://github.com/alphagov/govuk-design-system-backlog/issues)
+- [ ] Checked Confluence
+- [ ] Included info already gathered from design system [Miro](https://miro.com/app/board/uXjVOS5QrxU=/?invite_link_id=3316733703)
+
 ### Should this component or pattern remain in the HMCTS Design system?
+
 ### What needs to be done to get the design system up to date with the findings on this card?
