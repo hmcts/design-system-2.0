@@ -11,7 +11,7 @@ assignees: ''
 
 ![This is the alt text for an image of the thing](put URL here if you're linking to another source)
 [Link to item on design system miro, delete when this card is populated](URL)
-[Link to HMCTS Design system if it exists] (URL)
+[Link to HMCTS Design system](URL)
 
 ### What is this component/pattern?
 
